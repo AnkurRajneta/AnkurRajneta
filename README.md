@@ -16,3 +16,14 @@
 🤝 Stack of tools 🤝
 
 </h1>
+
+<p align="center">
+  <a href="https://github.com/AnkurRajneta">
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,python,r" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/AnkurRajneta">
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap" />
+  </a>
+</p>
